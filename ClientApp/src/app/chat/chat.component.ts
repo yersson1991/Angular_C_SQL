@@ -10,6 +10,7 @@ import { Component, Inject } from '@angular/core';
 
 
 
+
 export class ChatComponent{
 
   public nombre = "yerson duro perri estudie ";
